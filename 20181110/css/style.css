@@ -1,0 +1,107 @@
+.people {
+    margin-left: auto;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.peopletitle {
+    font-size: 2.5rem;
+    font-family: "Garamond", serif;
+}
+
+.border {
+    color: rgb(53, 53, 53);
+}
+
+.peoplename {
+    font-weight: bolder;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    font-family: "Garamond", serif;
+    margin-left: 0px;
+}
+
+.peopleintroduce {
+    letter-spacing: 1px;
+    font-family: "Garamond", serif;
+    margin-left: 0px;
+    font-size: 0.6em;
+}
+
+.peoplecollapse {
+    font-weight: bolder;
+    padding: 50px 50px;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    font-family: "Garamond", serif;
+}
+
+
+.member {
+
+    width: auto;
+    height: auto;
+
+}
+
+.textt {
+    font-size: 0.6em;
+    color: gray;
+}
+
+.projecttaxt {
+    color: gray;
+
+}
+
+.location {
+    margin-top: 50px;
+
+}
+
+.downloadtext {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(62, 62, 62);
+    font-weight: normal;
+}
+
+.webintriduce {
+    color: gray;
+
+}
+
+p.text {
+    display: none;
+}
+
+p.taitext {
+    display: none;
+    color: gray;
+    margin: 0 auto;
+}
+
+p.taititle {
+    font-weight: bolder;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    font-family: "Garamond", serif;
+    margin: 0 auto;
+    color: gray;
+    padding: 0px;
+}
+
+p.taitext01 {
+    display: none;
+    color: gray;
+    margin: 0 auto;
+}
+
+p.taititle01 {
+    font-weight: bolder;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    font-family: "Garamond", serif;
+    margin: 0 auto;
+    color: gray;
+    padding: 0px;
+}
